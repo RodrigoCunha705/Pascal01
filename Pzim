@@ -1,0 +1,10 @@
+Program Pzim ;
+var num1,num2: Integer;
+Begin
+   writeln('Digite um numero.: ');
+   readln(num1);
+   writeln('Digite outro numero.: ');
+   readln(num2);
+   writeln('A soma e = ', num1+num2);      
+   readkey();
+End.
